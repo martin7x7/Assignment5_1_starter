@@ -7,7 +7,8 @@ This project aims to understand the differences between customers who accept the
 
 ## There are two main files
 1)	prompt.ipynb – contains requested code and answers to all questions
-2)	coupons.csv – contains data that were analyzed 
+2)	coupons.csv – contains data that were analyzed
+3)	LICENSE - license file
 
 ## Main conclusions from data analysis
 1)	The average acceptance rate of coupons is 56.84%. However, bar coupons were accepted in 41.0% cases. Bar coupons are not among the most frequently used.
