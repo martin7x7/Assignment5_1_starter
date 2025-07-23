@@ -1,4 +1,4 @@
-# Assignment5_1_starter
+# Will the Customer Accept the Coupon?
 
 There are two main files:
 1)	prompt.ipynb – contains requested code and answers to all questions
