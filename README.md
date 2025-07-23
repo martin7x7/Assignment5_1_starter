@@ -1,5 +1,7 @@
 # Will the Customer Accept the Coupon?
 
+Link to notebook: https://github.com/martin7x7/Assignment5_1_starter/blob/main/prompt.ipynb
+
 ## What is the problem?
 This project aims to understand the differences between customers who accept the driving coupon and those who do not. Most of data analysis is done with subset of data – bar coupons.
 
