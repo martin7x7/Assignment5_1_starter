@@ -1,7 +1,7 @@
 # Will the Customer Accept the Coupon?
 
 ## What is the problem?
-This project aims to understand the differences between customers who accept the driving coupon and those who do not.
+This project aims to understand the differences between customers who accept the driving coupon and those who do not. Most of data analysis is done with subset of data – bar coupons.
 
 ## There are two main files
 1)	prompt.ipynb – contains requested code and answers to all questions
@@ -13,3 +13,6 @@ This project aims to understand the differences between customers who accept the
 3)	Those customers who visit bars at least once a month and are over the age of 25 accept coupons twice as much (69% rate) compared to others (33.5% rate).
 4)	Probably those who drive with friends or partner are more willing to accept a coupon for a bar than others.
 5)	Respondents with lower income who go to cheap restaurants seem less interested in visiting bars (acceptance rate 45.3%). In contrast, there is much higher acceptance rate among those who are used to go to bar at least once a month, travel with partner or friends, or are under the age of 30.
+
+## Recomendations for next steps
+My recommendation would be to review the data on other types of coupons — Carry Out & Take Away, Coffee House, Restaurant (20–50), and Restaurant (<20).
